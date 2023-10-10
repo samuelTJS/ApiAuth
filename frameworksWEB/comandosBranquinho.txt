@@ -1,0 +1,23 @@
+﻿Pasta TO DO APP:
+
+npm install
+
+npm install -g @angular/cli
+
+
+Pasta API:
+
+npm install
+
+npm i express --save
+
+npm i nodemon -g --save-dev
+
+npm i mongoose --save
+
+npm install jsonwebtoken --save
+
+
+Código conexão Mongodb:
+
+nodemon index "mongodb+srv://samuel201766:ednaldo42@cluster0.wxmczgk.mongodb.net/tarefasDB?retryWrites=true&w=majority"

@@ -1,0 +1,55 @@
+1- fazer em uma frase a definição de estrategia,tatica e estragema.
+
+Resposta: Estratégia é o planejamento de longo prazo que guia a tomada de decisões, tática são as ações de curto prazo executadas para alcançar metas específicas, enquanto estratagema é a artimanha perspicaz usada para obter vantagem em situações particulares.
+
+2- falar 3 coisas importantes pra fazer um buissnes model
+
+Resposta: Compreender o Mercado e o Cliente; Definir Proposição de Valor Única (UVP); Modelar a Estrutura de Receitas e Custos.
+
+3-associar 3 alternativas pra falar como funcionar nivel tatico
+
+Resposta: Coordenação de Ações Intermediárias: Como o nível tático coordena a implementação das estratégias por meio de ações intermediárias; Tomada de Decisões Táticas: Exploração das decisões críticas tomadas no nível tático para atingir objetivos estratégicos; Planejamento de Médio Prazo: Focado no desenvolvimento de planos de ação de médio prazo no nível tático para garantir a consecução dos objetivos organizacionais.
+
+4- assosiar 8 coisas em ordem de fazer uma startup: tipo de negocio, buissness model, visão,fornecedores,compradores
+
+Resposta: Tipo de Negócio (Business Idea): O primeiro passo é identificar o tipo de negócio que você deseja criar. Isso envolve encontrar uma ideia que atenda a uma necessidade no mercado, resolver um problema ou oferecer um produto/serviço único. Você precisa ter uma visão clara do que sua startup fará.
+
+Visão (Vision): Depois de definir o tipo de negócio, você deve estabelecer uma visão clara para sua startup. Isso inclui definir seus objetivos de longo prazo, sua missão e o impacto que deseja ter no mercado ou na sociedade.
+
+Compradores (Customers): Identifique quem são seus compradores ou público-alvo. Quem são as pessoas ou empresas que se beneficiarão do seu produto ou serviço? Compreender suas necessidades, desejos e comportamentos é crucial para o sucesso da sua startup.
+
+Business Model (Modelo de Negócio): Agora é hora de desenvolver um modelo de negócio sólido. Isso envolve determinar como você vai gerar receita, quais serão suas fontes de renda, como seu produto ou serviço será precificado e como você planeja alcançar a lucratividade.
+
+Fornecedores (Suppliers): Após ter uma compreensão clara do que você está oferecendo e como vai ganhar dinheiro, você pode começar a identificar fornecedores. Isso inclui qualquer pessoa ou empresa que forneça matérias-primas, recursos, tecnologia ou serviços que você precisa para operar sua startup.
+
+Desenvolvimento de Produto/Serviço (Product/Service Development): Agora é hora de desenvolver seu produto ou serviço com base no modelo de negócio e nas necessidades dos clientes. Isso pode envolver pesquisa, design, prototipagem e testes.
+
+Marketing e Vendas (Marketing and Sales): Com um produto ou serviço pronto, você pode começar a criar estratégias de marketing para alcançar seus compradores. Isso inclui a criação de campanhas de marketing, estabelecimento de canais de venda e a construção de uma presença on-line.
+
+Execução e Escala (Execution and Scaling): Finalmente, você pode iniciar a operação da sua startup e trabalhar para escalar o negócio. Isso envolve a gestão eficaz de recursos, a melhoria contínua do produto/serviço e a expansão para novos mercados, se aplicável.
+
+5-fazer uma missão e visão de uma empresa farmauceutica
+
+Resposta: Missão: "Melhorar a qualidade de vida por meio de medicamentos inovadores e acessíveis, aderindo a padrões éticos e regulatórios rigorosos."
+
+Visão: "Tornar-se líder global na indústria farmacêutica, impulsionado pela inovação, expansão global e responsabilidade social, promovendo um mundo mais saudável e sustentável."
+
+6-esse não estou me lembrando mas era duas perguntas nesse
+
+7-pede pra falar o que vc entendeu das forças de poter e do poder barganha do consumidor
+
+Resposta: Forças de Porter (Porter's Five Forces): É um modelo que analisa o ambiente competitivo de uma indústria, considerando cinco fatores-chave: poder de negociação dos fornecedores, poder de negociação dos compradores, ameaça de novos entrantes, ameaça de produtos substitutos e rivalidade entre concorrentes existentes.
+
+Poder de Barganha do Consumidor: Refere-se à influência dos consumidores sobre as empresas, permitindo que eles exijam preços mais baixos, melhores condições de pagamento, maior qualidade ou serviço personalizado, com base em fatores como a disponibilidade de alternativas e a sensibilidade ao preço.
+
+8-não me lembro direito mas esse fala sobre Capacidade
+
+9- fale pelo menos 3 FCS para uma empresa de TI em um Hospital
+
+Resposta: Sistemas de Gestão Hospitalar: Oferecer soluções avançadas para gerenciamento hospitalar, incluindo registros eletrônicos de saúde e agendamento.
+
+Segurança de Dados e Conformidade: Garantir a segurança de dados dos pacientes e a conformidade com regulamentos, como o HIPAA.
+
+Telemedicina e Conectividade: Desenvolver plataformas de telemedicina e soluções de conectividade para facilitar a comunicação e melhorar a eficiência hospitalar.
+
+10- falar 5 ferramentas ou habilidades que a galera falou nos trabalhos
